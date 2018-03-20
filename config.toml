@@ -1,5 +1,5 @@
-baseurl = "https://example.org/"
-title = "Tracks"
+baseurl = "https://www.mosaaferat.netlify.com/"
+title = "Mosaaferat Irani"
 theme = "hugo-tracks-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -7,14 +7,16 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 [params]
   # Use custom.css for your custom styling
   style = "default"
-  description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  description = "A travelblog"
+  copyright = "&copy;2018 Christin Zasada"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "Begleite mich auf meiner Reise in den Iran.",
+    "Follow me on my trip through Iran."
   ]
 
   # Contact page
@@ -45,11 +47,11 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
+  facebook      = "www.facebook.com/ChristinZasada"
+ # googleplus    = "full profile url in googleplus"
+  email         = "zasada.christin@gmail.com"
   twitter       = "full profile url in twitter"
   linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
+  #stackoverflow = "full profile url in stackoverflow"
+  instagram     = "www.instagram/ChristinZasada"
+  github        = "www.github.com/ChrisZasa"
