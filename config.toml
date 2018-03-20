@@ -47,11 +47,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   url = "contact/"
 
   [params.social]
-  facebook      = "www.facebook.com/ChristinZasada"
+  facebook      = "www.facebook.com/ChrisTin/"
  # googleplus    = "full profile url in googleplus"
   email         = "zasada.christin@gmail.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
+  twitter       = "https://twitter.com/ChristinZasada"
+  linkedin      = "https://www.linkedin.com/in/christin-zasada/"
   #stackoverflow = "full profile url in stackoverflow"
-  instagram     = "www.instagram/ChristinZasada"
+  instagram     = "https://www.instagram.com/nigheanruach/"
   github        = "www.github.com/ChrisZasa"
