@@ -36,7 +36,7 @@ googleAnalytics = ""
   name = "Home"
   url = ""
 
-  [[params.navlinks]]
+  [params.navlinks]
   name = "About"
   url = "about/"
 

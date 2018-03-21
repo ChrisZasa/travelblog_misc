@@ -5,7 +5,7 @@ draft = true
 date = "2018-03-18T19:53:42+05:30"
 title = "Day 2"
 categories = [ "Day2" ]
-tags = [ "Nightlife"]
+tags = [ "Nightlife", "Tehran"]
 weight = 5
 +++
 
