@@ -2,7 +2,7 @@
 image = "img/portfolio/IMG_Tehran_01.jpg"
 showonlyimage = false
 date = "2018-03-15T19:44:32+05:30"
-title = "Willkommen... / Welcome..."
+title = "Willkommen - Welcome"
 categories = ["Welcome"]
 tags = ["Start"]
 draft = false
