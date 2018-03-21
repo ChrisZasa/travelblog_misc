@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Day1 on Mosaaferat Irani</title>
+    <link>/categories/day1/</link>
+    <description>Recent content in Day1 on Mosaaferat Irani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2018 Christin Zasada</copyright>
+    <lastBuildDate>Sat, 17 Mar 2018 19:44:32 +0530</lastBuildDate>
+    
+	<atom:link href="/categories/day1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 1</title>
+      <link>/post/blogpost_day1/</link>
+      <pubDate>Sat, 17 Mar 2018 19:44:32 +0530</pubDate>
+      
+      <guid>/post/blogpost_day1/</guid>
+      <description>&lt;p&gt;Der erste Tag, das erste Mal Persisches Essen in Teheran.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The first day, and the first Persian food in Tehran.&lt;/em&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

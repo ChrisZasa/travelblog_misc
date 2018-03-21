@@ -13,6 +13,26 @@
   </url>
   
   <url>
+    <loc>/post/blogpost_day4_nowruz/</loc>
+    <lastmod>2018-03-16T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/blogpost_day1/</loc>
+    <lastmod>2018-03-17T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/blogpost_day3_bazar/</loc>
+    <lastmod>2018-03-16T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/blogpost_day2/</loc>
+    <lastmod>2018-03-16T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2018-03-20T21:05:33+05:30</lastmod>
   </url>
@@ -23,7 +43,9 @@
   </url>
   
   <url>
-    <loc>/post/blogpost_day1/</loc>
+    <loc>/tags/aash/</loc>
+    <lastmod>2018-03-16T19:53:42+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -34,6 +56,18 @@
   
   <url>
     <loc>/categories/arrival/</loc>
+    <lastmod>2018-03-16T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/athome/</loc>
+    <lastmod>2018-03-17T19:44:32+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bazar/</loc>
     <lastmod>2018-03-16T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -57,14 +91,68 @@
   </url>
   
   <url>
+    <loc>/categories/day1/</loc>
+    <lastmod>2018-03-17T19:44:32+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/day2/</loc>
+    <lastmod>2018-03-16T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/day3/</loc>
+    <lastmod>2018-03-16T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/food/</loc>
+    <lastmod>2018-03-17T19:44:32+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/kebab/</loc>
+    <lastmod>2018-03-17T19:44:32+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2018-03-15T19:44:32+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/tags/nightlife/</loc>
+    <lastmod>2018-03-16T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/nowruz/</loc>
+    <lastmod>2018-03-16T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/nowruz/</loc>
+    <lastmod>2018-03-16T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
     <lastmod>2018-03-15T19:44:32+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/spring/</loc>
+    <lastmod>2018-03-16T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -76,6 +164,18 @@
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2018-03-16T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tajrish/</loc>
+    <lastmod>2018-03-16T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tehran/</loc>
     <lastmod>2018-03-16T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>

@@ -1,6 +1,6 @@
 +++
 image = "img/portfolio/home_01.jpg"
-showonlyimage = false
+showonlyimage = true
 date = "2018-03-17T19:44:32+05:30"
 title = "Day 1"
 categories = ["Day1"]
@@ -9,9 +9,9 @@ draft = false
 weight = 3
 +++
 
-Der erste Tag in Teheran.
+Der erste Tag, das erste Mal Persisches Essen in Teheran.
 
-*The first day in Tehran.*
+*The first day, and the first Persian food in Tehran.*
 <!--more-->
 
 ## Willkommen ...
