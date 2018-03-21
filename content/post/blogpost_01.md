@@ -9,9 +9,9 @@ tags = [ "CrazyDrivers"]
 weight = 2
 +++
 
-Die Reise beginnt - vier Wochen lang geht es in den Mittleren Osten. 
+Die Reise beginnt! 
 
-*The journey starts - four weeks are ahead of us exploring the Middle East.*
+*The journey starts!*
 <!--more-->
 
 ## Die ersten Eindrücke
@@ -49,7 +49,5 @@ Deep breath - let's go!
 
 The baggage claim was the first impact with Persian culture. Immediately behind the baggage claim hundred of people were waiting for their family members, accompanied by the respective noise even at midnight. It felt like ages until we received our luggage. Each of us packed with 25 kg of luggage and 7 kg of cabin bag tried to make our way through the crowd of people. A short fight between private and state cabe drivers in the middle of the hall did not make it easier, but was just comment as 'a common thing' by Fardad and Feryal.
 
-Finally we hijacked a cab and within an hour we made our way from the very south to the nort-east of Tehran. Even though I have been warned before, the driving style of the cab driver took my breath. Changing lanes and a simultanous indication by flash light are completly over-estimated. I got the feeling you only use flash lights to make other drivers aware that you are driving much slower than anyone else. I tried to focus on the Persian folklore screaming out of the radio. It did not help much, but slowly the excitment about this new adventure rose.
-
-
+Finally we hijacked a cab and within an hour we made our way from the very south to the nort-east of Tehran. Even though I have been warned before, the driving style of the cab driver took my breath. Changing lanes and a simultanous indication by flash light are completly over-estimated. I got the feeling you only use flash lights to make other drivers aware that you are driving much slower than anyone else. I tried to focus on the Persian folklore screaming out of the radio. It did not help much, though.
 

@@ -5,7 +5,7 @@ date = "2018-03-17T19:44:32+05:30"
 title = "Day 1"
 categories = ["Day1"]
 tags = ["Kebab" , "Food" , "AtHome"]
-draft = false
+draft = true
 weight = 3
 +++
 
