@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2018 Christin Zasada</copyright>
-    <lastBuildDate>Tue, 20 Mar 2018 21:05:33 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 15 Mar 2018 21:05:33 +0530</lastBuildDate>
     
 	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>About me</title>
       <link>/about/</link>
-      <pubDate>Tue, 20 Mar 2018 21:05:33 +0530</pubDate>
+      <pubDate>Thu, 15 Mar 2018 21:05:33 +0530</pubDate>
       
       <guid>/about/</guid>
       <description></description>

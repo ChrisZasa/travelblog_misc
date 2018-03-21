@@ -1,6 +1,7 @@
 +++
-date = "2018-03-20T21:05:33+05:30"
+date = "2018-03-15T21:05:33+05:30"
 title = "About me"
+draft = false
 +++
 
 
@@ -8,4 +9,4 @@ title = "About me"
 
 
 
-[1]: /img/goldfish.jpg
+[1]: /img/portfolio/shokufe.jpg
