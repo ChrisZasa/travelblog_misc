@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Mosaaferat Irani</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Mosaaferat Irani</description>
+    <title>Welcome on Mosaaferat Irani</title>
+    <link>/categories/welcome/</link>
+    <description>Recent content in Welcome on Mosaaferat Irani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2018 Christin Zasada</copyright>
     <lastBuildDate>Thu, 15 Mar 2018 19:44:32 +0530</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/welcome/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,18 +21,6 @@
       <description>&lt;p&gt;&amp;hellip; und sei herzlich eingeladen mich auf meiner ersten Reise (persisch: mosaaferat) in den Iran zu begleiten.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;&amp;hellip; and feel warmly invited to follow me on my first trip (persian: mosaaferat) to Iran.&lt;/em&gt;
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Ankunft in Tehran / Arrival in Tehran</title>
-      <link>/post/blogpost_01/</link>
-      <pubDate>Sat, 17 Mar 2018 19:53:42 +0530</pubDate>
-      
-      <guid>/post/blogpost_01/</guid>
-      <description>&lt;p&gt;Die Reise beginnt - vier Wochen lang geht es in den Mittleren Osten.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The journey starts - four weeks are ahead of us exploring the Middle East.&lt;/em&gt;
 &lt;/p&gt;</description>
     </item>
     
