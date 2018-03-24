@@ -26,14 +26,12 @@ Nach einer großen Mütze Schlaf wurden wir mit einem großen Glas frisch gepres
 *After a good sleep we woke up in the late morning and started the day with a huge glass of fresh pressed blood orange juice. Just the right thing since we were still shaken by the wintery temperatures and cold session of Berlin. Relaxed and comfy on the various couches of the house we discussed the two most important topics of the day - breakfast (sob-ha-neh) and lunch (na-har). Time in between was supposed to be used for relaxing and arriving. *
 
 ### Sobhaneh
- *naan-o-panir* / Brot und Käse, und oft als ein Wort *nun-o-panir* ausgesprochen, ist der Klassiker auf dem Frühstückstisch. Doch weit gefehlt wer hier an Emmentaler und Stulle denkt - nicht irgendeine schnödes Käsebrot kommt hier auf den Tisch, sondern frisches, dünnes und knuspriges Brot, auf dem Gasherd erwärmt, wird mit den Fingern zerrissen und wahlweise mit weißem Käse (eine weiche, weiße Masse) oder *khame-asal* - ebenfalls weiß und weich (ähnlich wie Mascarpone) nur süßer und darauf Honig genossen. 
+<img align = "right" src="/img/portfolio/bread.png">
+
+Der Klassiker auf dem persischen Frühstückstisch ist *naan-o-panir* / Brot und Käse, und oft als ein Wort *nun-o-panir* ausgesprochen. Doch weit gefehlt wer hier an Emmentaler und Stulle denkt - nicht irgendeine schnödes Käsebrot kommt hier auf den Tisch, sondern frisches, dünnes und knuspriges Brot, auf dem Gasherd erwärmt, wird mit den Fingern zerrissen und wahlweise mit weißem Käse (eine weiche, weiße Masse) oder *khame-asal* - ebenfalls weiß und weich (ähnlich wie Mascarpone) nur süßer und darauf Honig genossen. 
  
 *Germans have their Toast with butter and jam or cup of cerials, Iranians have naan-o-panir - cheese and bread. But this bread is nothing like you would think of. It's thin, crispy, baked on stones and super delicious. On top of it you add a white, creamy cheese with some walnut or another white cream more like Italian mascarpone with some honey, called kha-me a-sal - cream and honey.*
 
-<p align="center">
-  <img src="/img/portfolio/bread.png">
-</p>
- 
  *Khe-i-li khosh-ma-ze* -  sehr lecker und ganz oben auf der Einkaufsliste um die nun halb leeren Koffer wieder aufzufüllen. 
  
 *Khe-i-li khosh-ma-ze - both of them very delicous and on top of the shopping list to refill our luggages.*
