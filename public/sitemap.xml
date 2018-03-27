@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/blogpost_kavier_day3/</loc>
+    <lastmod>2018-03-27T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/blogpost_kavier_day1/</loc>
+    <lastmod>2018-03-25T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/blogpost_kavier_day2/</loc>
+    <lastmod>2018-03-25T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/blogpost_00/</loc>
     <lastmod>2018-03-15T19:44:32+05:30</lastmod>
   </url>
@@ -90,20 +105,8 @@
   </url>
   
   <url>
-    <loc>/categories/day1/</loc>
-    <lastmod>2018-03-17T19:44:32+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/day2/</loc>
-    <lastmod>2018-03-18T19:53:42+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/day3/</loc>
-    <lastmod>2018-03-19T19:53:42+05:30</lastmod>
+    <loc>/tags/desertvillage/</loc>
+    <lastmod>2018-03-27T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -115,13 +118,13 @@
   
   <url>
     <loc>/tags/kavir/</loc>
-    <lastmod>2018-03-24T19:53:42+05:30</lastmod>
+    <lastmod>2018-03-27T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/kavir/</loc>
-    <lastmod>2018-03-24T19:53:42+05:30</lastmod>
+    <loc>/categories/kavir_mezr/</loc>
+    <lastmod>2018-03-27T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -133,7 +136,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-03-15T19:44:32+05:30</lastmod>
+    <lastmod>2018-03-27T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -157,7 +160,19 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-03-15T19:44:32+05:30</lastmod>
+    <lastmod>2018-03-27T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/saltlake/</loc>
+    <lastmod>2018-03-25T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sand/</loc>
+    <lastmod>2018-03-25T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -193,6 +208,12 @@
   
   <url>
     <loc>/tags/tehran/</loc>
+    <lastmod>2018-03-17T19:44:32+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/tehran/</loc>
     <lastmod>2018-03-17T19:44:32+05:30</lastmod>
     <priority>0</priority>
   </url>

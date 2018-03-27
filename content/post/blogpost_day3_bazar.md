@@ -4,7 +4,7 @@ showonlyimage = true
 draft = false
 date = "2018-03-19T19:53:42+05:30"
 title = "Bazar-e Tajrish"
-categories = [ "Day3" ]
+categories = [ "Tehran" ]
 tags = [ "Tehran", "Bazar", "Tajrish"]
 weight = 4
 +++

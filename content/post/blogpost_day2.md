@@ -3,8 +3,8 @@ image = "img/portfolio/bamland.jpg"
 showonlyimage = true
 draft = true
 date = "2018-03-18T19:53:42+05:30"
-title = "Day 2"
-categories = [ "Day2" ]
+title = "Nightlife in Tehran"
+categories = [ "Tehran" ]
 tags = [ "Nightlife", "Tehran"]
 weight = 5
 +++

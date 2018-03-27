@@ -22,38 +22,11 @@
     </item>
     
     <item>
-      <title>Day1</title>
-      <link>/categories/day1/</link>
-      <pubDate>Sat, 17 Mar 2018 19:44:32 +0530</pubDate>
+      <title>Kavir_mezr</title>
+      <link>/categories/kavir_mezr/</link>
+      <pubDate>Tue, 27 Mar 2018 19:53:42 +0530</pubDate>
       
-      <guid>/categories/day1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Day2</title>
-      <link>/categories/day2/</link>
-      <pubDate>Sun, 18 Mar 2018 19:53:42 +0530</pubDate>
-      
-      <guid>/categories/day2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Day3</title>
-      <link>/categories/day3/</link>
-      <pubDate>Mon, 19 Mar 2018 19:53:42 +0530</pubDate>
-      
-      <guid>/categories/day3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kavir</title>
-      <link>/categories/kavir/</link>
-      <pubDate>Sat, 24 Mar 2018 19:53:42 +0530</pubDate>
-      
-      <guid>/categories/kavir/</guid>
+      <guid>/categories/kavir_mezr/</guid>
       <description></description>
     </item>
     
@@ -63,6 +36,15 @@
       <pubDate>Tue, 20 Mar 2018 19:53:42 +0530</pubDate>
       
       <guid>/categories/nowruz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tehran</title>
+      <link>/categories/tehran/</link>
+      <pubDate>Sat, 17 Mar 2018 19:44:32 +0530</pubDate>
+      
+      <guid>/categories/tehran/</guid>
       <description></description>
     </item>
     
