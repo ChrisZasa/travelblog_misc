@@ -45,10 +45,10 @@ Die Zimmer sind einfach, aber liebevoll eingerichtet; die Betten mit drei Lagen 
   <img src="/img/portfolio/oase_C1.png">
 </p>
 
-Es ist unglaublich, wie sehr das Vorkommen von Wasser den staubigsten Flecken Erde wie die Wüste in eine leuchtend grüne Oase verzaubern kann. Nach einem kurzen Frühstück (die Klassiker - Rührei mit Tomaten, Brot und Käse) ging es direkt zum ersten Ausflugsziel - eines der grünsten Dörfer der Kavir Mesr - XY. 
+Es ist unglaublich, wie sehr das Vorkommen von Wasser den staubigsten Flecken Erde wie die Wüste in eine leuchtend grüne Oase verzaubern kann. Nach einem kurzen Frühstück (die Klassiker - Rührei mit Tomaten, Brot und Käse) ging es direkt zum ersten Ausflugsziel - eines der grünsten Dörfer der Kavir Mesr - Iraj. 
 Mitten im Nichts ragen alte Burgreste über einem kleinen Dorf umgeben von grün leuchtenden Felder, Palmen und durchzogen von sorgfältig gepflegten Kanälen, die jeden Flecken mit ausreichendem naßen Gold versorgen. 
 
-*It is unbelievable, how the existence of water changes the most dust-covered ground into fruitfull and shiny green ground. After a short breakfast in the hotel we directly headed to one of the greenest villages of the desert Mesr - XY.*
+*It is unbelievable, how the existence of water changes the most dust-covered ground into fruitfull and shiny green ground. After a short breakfast in the hotel we directly headed to one of the greenest villages of the desert Mesr - Iraj.*
 *Out of the nowhere and overseen by remains of an old castle on the top of the mountain the village is surrounded by green fields and palm trees. Carefully contructed and taken care off channels are interlaminating the village and provide the distribution of water.*
 
 <p align="center">
