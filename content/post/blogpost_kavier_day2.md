@@ -6,7 +6,7 @@ date = "2018-03-26T19:53:42+05:30"
 title = "Day 2 Kavir Mezr"
 categories = [ "Kavir_Mezr" ]
 tags = [ "Kavir", "Sand", "DesertVillage"]
-weight = 1
+weight = 2
 +++
 
 Ein 3000 Jahre alte Burg & Sand so weit das Auge reicht
