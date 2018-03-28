@@ -4,8 +4,8 @@ showonlyimage = true
 draft = false
 date = "2018-03-24T19:53:42+05:30"
 title = "Ausflug in die Wüste - Trip to the desert"
-categories = [ "Kavir_Mezr" ]
-tags = [ "Kavir", "ShortTrip"]
+categories = [ "Kavir_Mesr" ]
+tags = [ "#kavir"]
 weight = 6
 +++
 

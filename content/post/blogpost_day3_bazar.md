@@ -5,8 +5,8 @@ draft = false
 date = "2018-03-19T19:53:42+05:30"
 title = "Bazar-e Tajrish"
 categories = [ "Tehran" ]
-tags = [ "Tehran", "Bazar", "Tajrish"]
-weight = 4
+tags = [ "#tehran", "#bazar", "#tajrish"]
+weight = 23
 +++
 
 Farben, Düfte und Menschen ohne Ende - auf dem Bazar 

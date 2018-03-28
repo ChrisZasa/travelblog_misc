@@ -4,14 +4,12 @@ showonlyimage = true
 date = "2018-03-17T19:44:32+05:30"
 title = "Day 1"
 categories = ["Tehran"]
-tags = ["Kebab" , "Food" , "Tehran"]
+tags = ["#kebab" , "#iranianfood" , "#tehran"]
 draft = false
 weight = 3
 +++
 
-Der erste Tag, das erste Mal Persisches Essen in Teheran.
-
-*The first day, and the first Persian food in Tehran.*
+Der erste Tag, das erste Mal Persisches Essen in Teheran. - *The first day, and the first Persian food in Tehran.*
 <!--more-->
 
 ## Vieles zum ersten Mal - First day, first food, first everything

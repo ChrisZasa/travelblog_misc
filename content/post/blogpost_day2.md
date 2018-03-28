@@ -5,7 +5,7 @@ draft = true
 date = "2018-03-18T19:53:42+05:30"
 title = "Nightlife in Tehran"
 categories = [ "Tehran" ]
-tags = [ "Nightlife", "Tehran"]
+tags = [ "#nightlife", "#tehran"]
 weight = 5
 +++
 
