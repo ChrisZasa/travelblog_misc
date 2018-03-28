@@ -2,7 +2,7 @@
 image = "img/portfolio/kavir_day2.png"
 showonlyimage = true
 draft = true
-date = "2018-03-25T19:53:42+05:30"
+date = "2018-03-26T19:53:42+05:30"
 title = "Day 2 Kavir Mezr"
 categories = [ "Kavir_Mezr" ]
 tags = [ "Kavir", "Sand", "DesertVillage"]
