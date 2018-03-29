@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>/post/blogpost_kavier_day1_new/</loc>
-    <lastmod>2018-03-25T19:53:42+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/blogpost_kavier_day2/</loc>
     <lastmod>2018-03-26T19:53:42+05:30</lastmod>
   </url>
@@ -122,7 +117,7 @@
   
   <url>
     <loc>/categories/kavir_mesr/</loc>
-    <lastmod>2018-03-26T19:53:42+05:30</lastmod>
+    <lastmod>2018-03-25T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -145,13 +140,13 @@
   </url>
   
   <url>
-    <loc>/tags/nowruz/</loc>
+    <loc>/categories/nowruz/</loc>
     <lastmod>2018-03-20T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/nowruz/</loc>
+    <loc>/tags/nowruz/</loc>
     <lastmod>2018-03-20T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -199,20 +194,14 @@
   </url>
   
   <url>
-    <loc>/tags/tehran/</loc>
-    <lastmod>2018-03-17T19:44:32+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/tehran/</loc>
     <lastmod>2018-03-17T19:44:32+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/test/</loc>
-    <lastmod>2018-03-25T19:53:42+05:30</lastmod>
+    <loc>/tags/tehran/</loc>
+    <lastmod>2018-03-17T19:44:32+05:30</lastmod>
     <priority>0</priority>
   </url>
   

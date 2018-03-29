@@ -4,7 +4,7 @@ showonlyimage = true
 draft = false
 date = "2018-03-25T19:53:42+05:30"
 title = "A beautiful sunrise, an oasis and salt lake"
-categories = [ "test" ]
+categories = [ "Kavir_Mesr" ]
 tags = [ "kavir", "saltlake", "desertvillage"]
 weight = 1
 +++
