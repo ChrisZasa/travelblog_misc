@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2018-03-15T19:44:32+05:30"
 title = "Willkommen - Welcome"
 categories = ["Welcome"]
-tags = ["#start"]
+tags = ["start"]
 draft = false
 weight = 27
 +++

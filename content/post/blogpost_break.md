@@ -5,7 +5,7 @@ draft = false
 date = "2018-03-24T19:53:42+05:30"
 title = "Ausflug in die Wüste - Trip to the desert"
 categories = [ "Kavir_Mesr" ]
-tags = [ "#kavir"]
+tags = [ "kavir"]
 weight = 6
 +++
 

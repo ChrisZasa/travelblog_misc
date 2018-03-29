@@ -4,7 +4,7 @@ showonlyimage = true
 date = "2018-03-17T19:44:32+05:30"
 title = "Day 1"
 categories = ["Tehran"]
-tags = ["#kebab" , "#iranianfood" , "#tehran"]
+tags = ["kebab" , "iranianfood" , "tehran"]
 draft = false
 weight = 3
 +++

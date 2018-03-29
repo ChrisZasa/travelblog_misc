@@ -5,7 +5,7 @@ draft = false
 date = "2018-03-16T19:53:42+05:30"
 title = "Ankunft in Teheran - Arrival in Tehran"
 categories = [ "Arrival" ]
-tags = [ "#crazydrivers"]
+tags = [ "crazydrivers"]
 weight = 26
 +++
 

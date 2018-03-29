@@ -3,9 +3,9 @@ image = "img/portfolio/kavir_day3.png"
 showonlyimage = true
 draft = true
 date = "2018-03-27T19:53:42+05:30"
-title = "Day 3 Kavir Mezr"
-categories = [ "Kavir_Mezr" ]
-tags = [ "Kavir", "DesertVillage"]
+title = "Day 3 Kavir Mesr"
+categories = [ "Kavir_Mesr" ]
+tags = [ "kavir", "desertvillage"]
 weight = 3
 +++
 
