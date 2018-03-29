@@ -5,7 +5,7 @@ draft = false
 date = "2018-03-19T19:53:42+05:30"
 title = "Bazar-e Tajrish"
 categories = [ "Tehran" ]
-tags = [ "#tehran", "#bazar", "#tajrish"]
+tags = [ "tehran", "bazar", "tajrish"]
 weight = 6
 +++
 
