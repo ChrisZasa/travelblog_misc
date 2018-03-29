@@ -159,13 +159,13 @@
   </url>
   
   <url>
-    <loc>/tags/nowruz/</loc>
+    <loc>/categories/nowruz/</loc>
     <lastmod>2018-03-20T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/nowruz/</loc>
+    <loc>/tags/nowruz/</loc>
     <lastmod>2018-03-20T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -189,12 +189,6 @@
   </url>
   
   <url>
-    <loc>/tags/sesertvillage/</loc>
-    <lastmod>2018-03-26T19:53:42+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/spring/</loc>
     <lastmod>2018-03-20T19:53:42+05:30</lastmod>
     <priority>0</priority>
@@ -213,13 +207,13 @@
   </url>
   
   <url>
-    <loc>/tags/tehran/</loc>
+    <loc>/categories/tehran/</loc>
     <lastmod>2018-03-17T19:44:32+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/tehran/</loc>
+    <loc>/tags/tehran/</loc>
     <lastmod>2018-03-17T19:44:32+05:30</lastmod>
     <priority>0</priority>
   </url>

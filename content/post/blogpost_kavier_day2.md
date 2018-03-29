@@ -5,7 +5,7 @@ draft = true
 date = "2018-03-26T19:53:42+05:30"
 title = "Day 2 Kavir Mesr"
 categories = [ "Kavir_Mesr" ]
-tags = [ "kavir", "sand", "sesertvillage"]
+tags = [ "kavir", "sand", "desertvillage"]
 weight = 2
 +++
 
