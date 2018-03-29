@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2018 Christin Zasada</copyright>
-    <lastBuildDate>Tue, 20 Mar 2018 19:53:42 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 19 Mar 2018 19:53:42 +0530</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#Bazar</title>
+      <link>/tags/#bazar/</link>
+      <pubDate>Mon, 19 Mar 2018 19:53:42 +0530</pubDate>
+      
+      <guid>/tags/#bazar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#Tajrish</title>
+      <link>/tags/#tajrish/</link>
+      <pubDate>Mon, 19 Mar 2018 19:53:42 +0530</pubDate>
+      
+      <guid>/tags/#tajrish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#Tehran</title>
+      <link>/tags/#tehran/</link>
+      <pubDate>Mon, 19 Mar 2018 19:53:42 +0530</pubDate>
+      
+      <guid>/tags/#tehran/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aash</title>
@@ -18,15 +45,6 @@
       <pubDate>Tue, 20 Mar 2018 19:53:42 +0530</pubDate>
       
       <guid>/tags/aash/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bazar</title>
-      <link>/tags/bazar/</link>
-      <pubDate>Mon, 19 Mar 2018 19:53:42 +0530</pubDate>
-      
-      <guid>/tags/bazar/</guid>
       <description></description>
     </item>
     
@@ -49,11 +67,11 @@
     </item>
     
     <item>
-      <title>Food</title>
-      <link>/tags/food/</link>
+      <title>Iranianfood</title>
+      <link>/tags/iranianfood/</link>
       <pubDate>Sat, 17 Mar 2018 19:44:32 +0530</pubDate>
       
-      <guid>/tags/food/</guid>
+      <guid>/tags/iranianfood/</guid>
       <description></description>
     </item>
     
@@ -112,11 +130,11 @@
     </item>
     
     <item>
-      <title>Shorttrip</title>
-      <link>/tags/shorttrip/</link>
-      <pubDate>Sat, 24 Mar 2018 19:53:42 +0530</pubDate>
+      <title>Sesertvillage</title>
+      <link>/tags/sesertvillage/</link>
+      <pubDate>Mon, 26 Mar 2018 19:53:42 +0530</pubDate>
       
-      <guid>/tags/shorttrip/</guid>
+      <guid>/tags/sesertvillage/</guid>
       <description></description>
     </item>
     
@@ -135,15 +153,6 @@
       <pubDate>Thu, 15 Mar 2018 19:44:32 +0530</pubDate>
       
       <guid>/tags/start/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tajrish</title>
-      <link>/tags/tajrish/</link>
-      <pubDate>Mon, 19 Mar 2018 19:53:42 +0530</pubDate>
-      
-      <guid>/tags/tajrish/</guid>
       <description></description>
     </item>
     
