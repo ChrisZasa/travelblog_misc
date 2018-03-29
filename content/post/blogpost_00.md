@@ -6,7 +6,7 @@ title = "Willkommen - Welcome"
 categories = ["Welcome"]
 tags = ["start"]
 draft = false
-weight = 10
+weight = 27
 +++
 
 ... und sei herzlich eingeladen mich auf meiner ersten Reise (persisch: mosaaferat) in den Iran zu begleiten.

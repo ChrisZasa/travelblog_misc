@@ -6,7 +6,7 @@ date = "2018-03-18T19:53:42+05:30"
 title = "Nightlife in Tehran"
 categories = [ "Tehran" ]
 tags = [ "nightlife", "tehran"]
-weight = 5
+weight = 24
 +++
 
 Die Reise beginnt - vier Wochen lang geht es in den Mittleren Osten. 

@@ -6,7 +6,7 @@ date = "2018-03-24T19:53:42+05:30"
 title = "Ausflug in die Wüste - Trip to the desert"
 categories = [ "Kavir_Mesr" ]
 tags = [ "kavir"]
-weight = 6
+weight = 18
 +++
 
 Der erste Kurzausflug in die Wüste. 

@@ -6,7 +6,7 @@ title = "Day 1"
 categories = ["Tehran"]
 tags = ["kebab" , "iranianfood" , "tehran"]
 draft = false
-weight = 3
+weight = 25
 +++
 
 Der erste Tag, das erste Mal Persisches Essen in Teheran. - *The first day, and the first Persian food in Tehran.*

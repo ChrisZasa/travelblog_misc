@@ -6,7 +6,7 @@ date = "2018-03-25T19:53:42+05:30"
 title = "A beautiful sunrise, an oasis and salt lake"
 categories = [ "Kavir_Mesr" ]
 tags = [ "kavir", "saltlake", "desertvillage"]
-weight = 1
+weight = 16
 +++
 
 Ein Abenteuer voller Kontraste - *An adventure full of contrasts*

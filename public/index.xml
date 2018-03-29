@@ -2,42 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mosaaferat Irani</title>
-    <link>https://mosaaferat2018.netlify.com/</link>
+    <link>/</link>
     <description>Recent content on Mosaaferat Irani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2018 Christin Zasada</copyright>
-    <lastBuildDate>Sun, 25 Mar 2018 19:53:42 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 20 Mar 2018 19:53:42 +0530</lastBuildDate>
     
-	<atom:link href="https://mosaaferat2018.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Persisches Neujahr - Persian Nowruz</title>
+      <link>/post/blogpost_day4_nowruz/</link>
+      <pubDate>Tue, 20 Mar 2018 19:53:42 +0530</pubDate>
+      
+      <guid>/post/blogpost_day4_nowruz/</guid>
+      <description>&lt;p&gt;Die Reise beginnt - vier Wochen lang geht es in den Mittleren Osten.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The journey starts - four weeks are ahead of us exploring the Middle East.&lt;/em&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Day 3 Kavir Mesr</title>
+      <link>/post/blogpost_kavier_day3/</link>
+      <pubDate>Tue, 27 Mar 2018 19:53:42 +0530</pubDate>
+      
+      <guid>/post/blogpost_kavier_day3/</guid>
+      <description>&lt;p&gt;Ein 3000 Jahre alte Burg &amp;amp; Sand so weit das Auge reicht&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;A 3000 years old castle &amp;amp; endless sand dunes&lt;/em&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lichtspiele in der Wüste - *The magic of light in the dessert*</title>
+      <link>/post/blogpost_kavier_day2/</link>
+      <pubDate>Mon, 26 Mar 2018 19:53:42 +0530</pubDate>
+      
+      <guid>/post/blogpost_kavier_day2/</guid>
+      <description>&lt;p&gt;Ein 3000 Jahre alte Burg &amp;amp; Sand so weit das Auge reicht - &lt;em&gt;A 3000 years old castle &amp;amp; endless sand dunes&lt;/em&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>A beautiful sunrise, an oasis and salt lake</title>
-      <link>https://mosaaferat2018.netlify.com/post/blogpost_kavier_day1/</link>
+      <link>/post/blogpost_kavier_day1/</link>
       <pubDate>Sun, 25 Mar 2018 19:53:42 +0530</pubDate>
       
-      <guid>https://mosaaferat2018.netlify.com/post/blogpost_kavier_day1/</guid>
+      <guid>/post/blogpost_kavier_day1/</guid>
       <description>&lt;p&gt;Ein Abenteuer voller Kontraste - &lt;em&gt;An adventure full of contrasts&lt;/em&gt;
 &lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Day 1</title>
-      <link>https://mosaaferat2018.netlify.com/post/blogpost_day1/</link>
-      <pubDate>Sat, 17 Mar 2018 19:44:32 +0530</pubDate>
-      
-      <guid>https://mosaaferat2018.netlify.com/post/blogpost_day1/</guid>
-      <description>&lt;p&gt;Der erste Tag, das erste Mal Persisches Essen in Teheran. - &lt;em&gt;The first day, and the first Persian food in Tehran.&lt;/em&gt;
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Ausflug in die Wüste - Trip to the desert</title>
-      <link>https://mosaaferat2018.netlify.com/post/blogpost_break/</link>
+      <link>/post/blogpost_break/</link>
       <pubDate>Sat, 24 Mar 2018 19:53:42 +0530</pubDate>
       
-      <guid>https://mosaaferat2018.netlify.com/post/blogpost_break/</guid>
+      <guid>/post/blogpost_break/</guid>
       <description>&lt;p&gt;Der erste Kurzausflug in die Wüste.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;First short trip to the desert&lt;/em&gt;
@@ -46,10 +70,10 @@
     
     <item>
       <title>Bazar-e Tajrish</title>
-      <link>https://mosaaferat2018.netlify.com/post/blogpost_day3_bazar/</link>
+      <link>/post/blogpost_day3_bazar/</link>
       <pubDate>Mon, 19 Mar 2018 19:53:42 +0530</pubDate>
       
-      <guid>https://mosaaferat2018.netlify.com/post/blogpost_day3_bazar/</guid>
+      <guid>/post/blogpost_day3_bazar/</guid>
       <description>&lt;p&gt;Farben, Düfte und Menschen ohne Ende - auf dem Bazar&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Colors, fragrances and hustle through the crowd - a visit at the bazar&lt;/em&gt;
@@ -57,23 +81,33 @@
     </item>
     
     <item>
-      <title>Willkommen - Welcome</title>
-      <link>https://mosaaferat2018.netlify.com/post/blogpost_00/</link>
-      <pubDate>Thu, 15 Mar 2018 19:44:32 +0530</pubDate>
+      <title>Nightlife in Tehran</title>
+      <link>/post/blogpost_day2/</link>
+      <pubDate>Sun, 18 Mar 2018 19:53:42 +0530</pubDate>
       
-      <guid>https://mosaaferat2018.netlify.com/post/blogpost_00/</guid>
-      <description>&lt;p&gt;&amp;hellip; und sei herzlich eingeladen mich auf meiner ersten Reise (persisch: mosaaferat) in den Iran zu begleiten.&lt;/p&gt;
+      <guid>/post/blogpost_day2/</guid>
+      <description>&lt;p&gt;Die Reise beginnt - vier Wochen lang geht es in den Mittleren Osten.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;&amp;hellip; and feel warmly invited to follow me on my first trip (persian: mosaaferat) to Iran.&lt;/em&gt;
+&lt;p&gt;&lt;em&gt;The journey starts - four weeks are ahead of us exploring the Middle East.&lt;/em&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Day 1</title>
+      <link>/post/blogpost_day1/</link>
+      <pubDate>Sat, 17 Mar 2018 19:44:32 +0530</pubDate>
+      
+      <guid>/post/blogpost_day1/</guid>
+      <description>&lt;p&gt;Der erste Tag, das erste Mal Persisches Essen in Teheran. - &lt;em&gt;The first day, and the first Persian food in Tehran.&lt;/em&gt;
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Ankunft in Teheran - Arrival in Tehran</title>
-      <link>https://mosaaferat2018.netlify.com/post/blogpost_01/</link>
+      <link>/post/blogpost_01/</link>
       <pubDate>Fri, 16 Mar 2018 19:53:42 +0530</pubDate>
       
-      <guid>https://mosaaferat2018.netlify.com/post/blogpost_01/</guid>
+      <guid>/post/blogpost_01/</guid>
       <description>&lt;p&gt;Die Reise beginnt!&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;The journey starts!&lt;/em&gt;
@@ -81,20 +115,32 @@
     </item>
     
     <item>
+      <title>Willkommen - Welcome</title>
+      <link>/post/blogpost_00/</link>
+      <pubDate>Thu, 15 Mar 2018 19:44:32 +0530</pubDate>
+      
+      <guid>/post/blogpost_00/</guid>
+      <description>&lt;p&gt;&amp;hellip; und sei herzlich eingeladen mich auf meiner ersten Reise (persisch: mosaaferat) in den Iran zu begleiten.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;hellip; and feel warmly invited to follow me on my first trip (persian: mosaaferat) to Iran.&lt;/em&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>About me</title>
-      <link>https://mosaaferat2018.netlify.com/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 15 Mar 2018 21:05:33 +0530</pubDate>
       
-      <guid>https://mosaaferat2018.netlify.com/about/</guid>
+      <guid>/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Get in touch</title>
-      <link>https://mosaaferat2018.netlify.com/contact/</link>
+      <link>/contact/</link>
       <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
       
-      <guid>https://mosaaferat2018.netlify.com/contact/</guid>
+      <guid>/contact/</guid>
       <description>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
 Effects present letters inquiry no an removed or friends. Desire behind latter me though in. Supposing shameless am he engrossed up additions. My possible peculiar together to.</description>
     </item>

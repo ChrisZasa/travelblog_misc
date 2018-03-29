@@ -2,22 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Desertvillage on Mosaaferat Irani</title>
-    <link>https://mosaaferat2018.netlify.com/tags/desertvillage/</link>
+    <link>/tags/desertvillage/</link>
     <description>Recent content in Desertvillage on Mosaaferat Irani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2018 Christin Zasada</copyright>
-    <lastBuildDate>Sun, 25 Mar 2018 19:53:42 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 27 Mar 2018 19:53:42 +0530</lastBuildDate>
     
-	<atom:link href="https://mosaaferat2018.netlify.com/tags/desertvillage/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/desertvillage/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Day 3 Kavir Mesr</title>
+      <link>/post/blogpost_kavier_day3/</link>
+      <pubDate>Tue, 27 Mar 2018 19:53:42 +0530</pubDate>
+      
+      <guid>/post/blogpost_kavier_day3/</guid>
+      <description>&lt;p&gt;Ein 3000 Jahre alte Burg &amp;amp; Sand so weit das Auge reicht&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;A 3000 years old castle &amp;amp; endless sand dunes&lt;/em&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lichtspiele in der Wüste - *The magic of light in the dessert*</title>
+      <link>/post/blogpost_kavier_day2/</link>
+      <pubDate>Mon, 26 Mar 2018 19:53:42 +0530</pubDate>
+      
+      <guid>/post/blogpost_kavier_day2/</guid>
+      <description>&lt;p&gt;Ein 3000 Jahre alte Burg &amp;amp; Sand so weit das Auge reicht - &lt;em&gt;A 3000 years old castle &amp;amp; endless sand dunes&lt;/em&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>A beautiful sunrise, an oasis and salt lake</title>
-      <link>https://mosaaferat2018.netlify.com/post/blogpost_kavier_day1/</link>
+      <link>/post/blogpost_kavier_day1/</link>
       <pubDate>Sun, 25 Mar 2018 19:53:42 +0530</pubDate>
       
-      <guid>https://mosaaferat2018.netlify.com/post/blogpost_kavier_day1/</guid>
+      <guid>/post/blogpost_kavier_day1/</guid>
       <description>&lt;p&gt;Ein Abenteuer voller Kontraste - &lt;em&gt;An adventure full of contrasts&lt;/em&gt;
 &lt;/p&gt;</description>
     </item>
