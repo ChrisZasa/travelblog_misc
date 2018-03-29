@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Mosaaferat Irani</title>
-    <link>/about/</link>
+    <link>https://mosaaferat2018.netlify.com/about/</link>
     <description>Recent content in Abouts on Mosaaferat Irani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2018 Christin Zasada</copyright>
     <lastBuildDate>Thu, 15 Mar 2018 21:05:33 +0530</lastBuildDate>
     
-	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mosaaferat2018.netlify.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About me</title>
-      <link>/about/</link>
+      <link>https://mosaaferat2018.netlify.com/about/</link>
       <pubDate>Thu, 15 Mar 2018 21:05:33 +0530</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://mosaaferat2018.netlify.com/about/</guid>
       <description></description>
     </item>
     

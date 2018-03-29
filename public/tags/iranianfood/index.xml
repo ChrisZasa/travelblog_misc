@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iranianfood on Mosaaferat Irani</title>
-    <link>/tags/iranianfood/</link>
+    <link>https://mosaaferat2018.netlify.com/tags/iranianfood/</link>
     <description>Recent content in Iranianfood on Mosaaferat Irani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2018 Christin Zasada</copyright>
     <lastBuildDate>Sat, 17 Mar 2018 19:44:32 +0530</lastBuildDate>
     
-	<atom:link href="/tags/iranianfood/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mosaaferat2018.netlify.com/tags/iranianfood/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Day 1</title>
-      <link>/post/blogpost_day1/</link>
+      <link>https://mosaaferat2018.netlify.com/post/blogpost_day1/</link>
       <pubDate>Sat, 17 Mar 2018 19:44:32 +0530</pubDate>
       
-      <guid>/post/blogpost_day1/</guid>
+      <guid>https://mosaaferat2018.netlify.com/post/blogpost_day1/</guid>
       <description>&lt;p&gt;Der erste Tag, das erste Mal Persisches Essen in Teheran. - &lt;em&gt;The first day, and the first Persian food in Tehran.&lt;/em&gt;
 &lt;/p&gt;</description>
     </item>

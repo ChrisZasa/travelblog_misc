@@ -2,148 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mosaaferat Irani</title>
-    <link>/tags/</link>
+    <link>https://mosaaferat2018.netlify.com/tags/</link>
     <description>Recent content in Tags on Mosaaferat Irani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2018 Christin Zasada</copyright>
-    <lastBuildDate>Tue, 20 Mar 2018 19:53:42 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 19 Mar 2018 19:53:42 +0530</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mosaaferat2018.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Ash</title>
-      <link>/tags/ash/</link>
-      <pubDate>Tue, 20 Mar 2018 19:53:42 +0530</pubDate>
-      
-      <guid>/tags/ash/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Bazar</title>
-      <link>/tags/bazar/</link>
+      <link>https://mosaaferat2018.netlify.com/tags/bazar/</link>
       <pubDate>Mon, 19 Mar 2018 19:53:42 +0530</pubDate>
       
-      <guid>/tags/bazar/</guid>
+      <guid>https://mosaaferat2018.netlify.com/tags/bazar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crazydrivers</title>
-      <link>/tags/crazydrivers/</link>
+      <link>https://mosaaferat2018.netlify.com/tags/crazydrivers/</link>
       <pubDate>Fri, 16 Mar 2018 19:53:42 +0530</pubDate>
       
-      <guid>/tags/crazydrivers/</guid>
+      <guid>https://mosaaferat2018.netlify.com/tags/crazydrivers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Desertvillage</title>
-      <link>/tags/desertvillage/</link>
+      <link>https://mosaaferat2018.netlify.com/tags/desertvillage/</link>
       <pubDate>Sun, 25 Mar 2018 19:53:42 +0530</pubDate>
       
-      <guid>/tags/desertvillage/</guid>
+      <guid>https://mosaaferat2018.netlify.com/tags/desertvillage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iranianfood</title>
-      <link>/tags/iranianfood/</link>
+      <link>https://mosaaferat2018.netlify.com/tags/iranianfood/</link>
       <pubDate>Sat, 17 Mar 2018 19:44:32 +0530</pubDate>
       
-      <guid>/tags/iranianfood/</guid>
+      <guid>https://mosaaferat2018.netlify.com/tags/iranianfood/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kavir</title>
-      <link>/tags/kavir/</link>
+      <link>https://mosaaferat2018.netlify.com/tags/kavir/</link>
       <pubDate>Sun, 25 Mar 2018 19:53:42 +0530</pubDate>
       
-      <guid>/tags/kavir/</guid>
+      <guid>https://mosaaferat2018.netlify.com/tags/kavir/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kebab</title>
-      <link>/tags/kebab/</link>
+      <link>https://mosaaferat2018.netlify.com/tags/kebab/</link>
       <pubDate>Sat, 17 Mar 2018 19:44:32 +0530</pubDate>
       
-      <guid>/tags/kebab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nightlife</title>
-      <link>/tags/nightlife/</link>
-      <pubDate>Sun, 18 Mar 2018 19:53:42 +0530</pubDate>
-      
-      <guid>/tags/nightlife/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nowruz</title>
-      <link>/tags/nowruz/</link>
-      <pubDate>Tue, 20 Mar 2018 19:53:42 +0530</pubDate>
-      
-      <guid>/tags/nowruz/</guid>
+      <guid>https://mosaaferat2018.netlify.com/tags/kebab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Saltlake</title>
-      <link>/tags/saltlake/</link>
+      <link>https://mosaaferat2018.netlify.com/tags/saltlake/</link>
       <pubDate>Sun, 25 Mar 2018 19:53:42 +0530</pubDate>
       
-      <guid>/tags/saltlake/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sand</title>
-      <link>/tags/sand/</link>
-      <pubDate>Mon, 26 Mar 2018 19:53:42 +0530</pubDate>
-      
-      <guid>/tags/sand/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spring</title>
-      <link>/tags/spring/</link>
-      <pubDate>Tue, 20 Mar 2018 19:53:42 +0530</pubDate>
-      
-      <guid>/tags/spring/</guid>
+      <guid>https://mosaaferat2018.netlify.com/tags/saltlake/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Start</title>
-      <link>/tags/start/</link>
+      <link>https://mosaaferat2018.netlify.com/tags/start/</link>
       <pubDate>Thu, 15 Mar 2018 19:44:32 +0530</pubDate>
       
-      <guid>/tags/start/</guid>
+      <guid>https://mosaaferat2018.netlify.com/tags/start/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tajrish</title>
-      <link>/tags/tajrish/</link>
+      <link>https://mosaaferat2018.netlify.com/tags/tajrish/</link>
       <pubDate>Mon, 19 Mar 2018 19:53:42 +0530</pubDate>
       
-      <guid>/tags/tajrish/</guid>
+      <guid>https://mosaaferat2018.netlify.com/tags/tajrish/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tehran</title>
-      <link>/tags/tehran/</link>
+      <link>https://mosaaferat2018.netlify.com/tags/tehran/</link>
       <pubDate>Sat, 17 Mar 2018 19:44:32 +0530</pubDate>
       
-      <guid>/tags/tehran/</guid>
+      <guid>https://mosaaferat2018.netlify.com/tags/tehran/</guid>
       <description></description>
     </item>
     
