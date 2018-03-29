@@ -1,7 +1,7 @@
 +++
 image = "img/portfolio/kavir_day11.png"
 showonlyimage = true
-draft = true
+draft = false
 date = "2018-03-25T19:53:42+05:30"
 title = "Day 1 Kavir Mesr"
 categories = [ "Kavir_Mesr" ]
