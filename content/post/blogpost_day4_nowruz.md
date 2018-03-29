@@ -5,7 +5,7 @@ draft = true
 date = "2018-03-20T19:53:42+05:30"
 title = "Persisches Neujahr - Persian Nowruz"
 categories = [ "Nowruz" ]
-tags = [ "Nowruz", "Spring", "Aash", "Tehran"]
+tags = [ "nowruz", "spring", "ash", "tehran"]
 weight = 6
 +++
 
