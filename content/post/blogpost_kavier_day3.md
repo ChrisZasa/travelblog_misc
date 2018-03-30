@@ -1,7 +1,7 @@
 +++
 image = "img/portfolio/garmeh_1.png"
 showonlyimage = true
-draft = true
+draft = false
 date = "2018-03-27T19:53:42+05:30"
 title = "Ein Besuch in Garmeh - A visit in Garmeh"
 categories = [ "Kavir_Mesr" ]
