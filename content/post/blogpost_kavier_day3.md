@@ -41,13 +41,20 @@ Doch umsonst die Skepsis, entweder waren die Fische nur die dunkleren Perserfü�
 
 Neben geflochtenen Körben, Kräutern und Gewürzen gab es auch einiges zu probieren und zu verkosten. Meine absoluten Lieblinge waren die Getränke - Majoran-Tee (persisch: *avishan kuhi*), heiß getrunken und frisch vom Kohlefeuer, sowie ein kalter Tee aus Safran, Nabat - eine Art Kandiszucker, im Übrigen im 9. Jahrhundert in Persien erfunden - und Chia-Samen, im Persischen *tokhme sharbati* genannt. Letztere verwandeln sich im Wasser von schwarzen kleinen Körnern in lustige, glubbelige und erfrischende Perlen. Liebling sharbat der Familie sind *Tokhme sharbati* in Kombination mit Zitrone, Minze und Honig. Super lecker! Sharbar ist im Übrigen die allgemeine Bezeichung für Erfrischungsgetränke basierend auf Blüten und Früchten im asiatischen Raum genannt werden.  
 
-*In addition to all the baskets and spices people sold also fresh and cold drinks. I loved them all - one hot black tea with mountain majoran, called avishan kuhi, directly from cole fire and a cold drink called sharbat, a common name for all cold drinks based on flowers or fruits in asia. These one had saffron, nabat - a candy sugar invented in the 9th century in Persia - and chia seeds named toghme sharbati. Chia seeds transform from its black shape into soft, gelly like pearls and are really refreshing. The favorite sharbat of Ramezani family contains, tokhme sharbati, mint, honey, saffron, rose water and lemon. Its really awesome!
+*In addition to all the baskets and spices people sold also fresh and cold drinks. I loved them all - one hot black tea with mountain majoran, called avishan kuhi, directly from cole fire and a cold drink called sharbat, a common name for all cold drinks based on flowers or fruits in asia. These one had saffron, nabat - a candy sugar invented in the 9th century in Persia - and chia seeds named toghme sharbati. Chia seeds transform from its black shape into soft, gelly like pearls and are really refreshing. The favorite sharbat of Ramezani family contains, tokhme sharbati, mint, honey, saffron, rose water and lemon. Its really awesome!*
 
 ## Zurück gen Teheran - *Back on the road*
 
+Zum letzten Lunch der Tour gab es dann die versprochene Tah-chin. Ich muss sagen - unsere Version schmeckt besser ;) ... was aber einzig daran liegen mag, dass unsere Tah-Chin eine Schicht Aubergine zusätzlich zum Hähnchen hat und mit wesentlich mehr der süß-sauren Barberitzen, Pistazien und Mandeln on top dekoriert ist.
+Nach einem letzten Tee ging es dann wieder mit dem Tour-Bus zurück gen Teheran. So wirklich müde war keiner, aber die ersten zwei Stunden der insgesamt neun Stunden Fahrtzeit schlummerten alle ruhig vor sich hin und bestaunten zum letzten Mal die so abwechslungsreiche Landschaft.
+
+*Finally, for the last lunch of the tour we got tah-chin, the tasty crispy, golden rice baked in an eggy-joghurt sauce. Tasty, but I have to say, our version including an additional layer of eggplant is much more tasty. Maybe it's also the bigger amount of barberries and pistacios with almonds that we put on top on it.*
+*We enjoyed a final tea before getting back on the bus for the trip back to Tehran. We were not really tired, but everyone sat satisfied and relaxed in his comfy seat and enjoyed for the last moments this extremly interesting countryside.*
 
 <p align="center">
   <img src="/img/portfolio/streetssigns2.png">
 </p>
 
+Ich nutze die Zeit um ein paar der Straßenschilder mit der Kamera zu erwischen. Mein Liebling ist natürlich das "Achtung, Kamel!" - Schild. Netterweise werden alle Zahlen und Schriftzeichen noch einmal in lateinischen Buchstaben gezeigt. Ich könnte mir vorstellen, dass es ansonsten für ausländische Urlauber relativ schwierig wäre sich an die Geschwindigkeitslimits zu halten. Was aber eigentlich auch egal ist, da es hier eh niemanden wirklich interessiert.
 
+*I took the time to catch some road signs. My favorite one is the 'Take care of camels'-sign. For all the rest I have to say I did not expect that they translate all numbers and city names and put them in latin letters. Otherwise I image it would be hard for European tourists to keep the limits. But on the other side - nobody cares at the end.*
