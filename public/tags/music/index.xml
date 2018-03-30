@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Mosaaferat Irani</title>
+    <link>/tags/music/</link>
+    <description>Recent content in Music on Mosaaferat Irani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2018 Christin Zasada</copyright>
+    <lastBuildDate>Tue, 27 Mar 2018 19:53:42 +0530</lastBuildDate>
+    
+	<atom:link href="/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ein Besuch in Garmeh - A visit in Garmeh</title>
+      <link>/post/blogpost_kavier_day3/</link>
+      <pubDate>Tue, 27 Mar 2018 19:53:42 +0530</pubDate>
+      
+      <guid>/post/blogpost_kavier_day3/</guid>
+      <description>&lt;p&gt;Wüsten-Fußputzfische &amp;amp; Berg-Majoran-Tee - &lt;em&gt;Mountain majoran tea and doctor fish in the desert&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
