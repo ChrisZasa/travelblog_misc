@@ -146,13 +146,13 @@
   </url>
   
   <url>
-    <loc>/categories/nowruz/</loc>
+    <loc>/tags/nowruz/</loc>
     <lastmod>2018-03-20T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/nowruz/</loc>
+    <loc>/categories/nowruz/</loc>
     <lastmod>2018-03-20T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -200,14 +200,14 @@
   </url>
   
   <url>
-    <loc>/categories/tehran/</loc>
-    <lastmod>2018-03-19T19:53:42+05:30</lastmod>
+    <loc>/tags/tehran/</loc>
+    <lastmod>2018-03-20T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/tehran/</loc>
-    <lastmod>2018-03-20T19:53:42+05:30</lastmod>
+    <loc>/categories/tehran/</loc>
+    <lastmod>2018-03-19T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
