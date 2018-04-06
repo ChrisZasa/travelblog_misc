@@ -6,7 +6,7 @@ date = "2018-03-31T19:53:42+05:30"
 title = "Kashan -  Stadt am Rande der Wüste"
 categories = [ "Kashan" ]
 tags = [ "kashan", "bazar", "undergroundcity"]
-weight = 15
+weight = 13
 +++
 
 Unterwelten, schmale Gassen und viel zu viele Menschen - *Underground cities, small alleys, and a way to much people* 
