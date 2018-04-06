@@ -8,8 +8,33 @@
   </url>
   
   <url>
+    <loc>/post/blogpost_isfahan_day1/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/blogpost_isfahan_day2/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/blogpost_isfahan_day3/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/blogpost_isfahan_day4/</loc>
+  </url>
+  
+  <url>
     <loc>/post/blogpost_kavier_day3/</loc>
     <lastmod>2018-03-27T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/blogpost_kashan_day2/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/blogpost_kashan_day1/</loc>
+    <lastmod>2018-03-31T19:53:42+05:30</lastmod>
   </url>
   
   <url>
@@ -69,6 +94,11 @@
   </url>
   
   <url>
+    <loc>/tags/architecturaldreams/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/ash/</loc>
     <lastmod>2018-03-20T19:53:42+05:30</lastmod>
     <priority>0</priority>
@@ -76,7 +106,12 @@
   
   <url>
     <loc>/tags/bazar/</loc>
-    <lastmod>2018-03-19T19:53:42+05:30</lastmod>
+    <lastmod>2018-03-31T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bridges/</loc>
     <priority>0</priority>
   </url>
   
@@ -88,6 +123,11 @@
   <url>
     <loc>/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/crazydriver/</loc>
     <priority>0</priority>
   </url>
   
@@ -106,6 +146,28 @@
   <url>
     <loc>/tags/iranianfood/</loc>
     <lastmod>2018-03-17T19:44:32+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/isfahan/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/isfahan/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/kashan/</loc>
+    <lastmod>2018-03-31T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/kashan/</loc>
+    <lastmod>2018-03-31T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -154,6 +216,11 @@
   <url>
     <loc>/categories/nowruz/</loc>
     <lastmod>2018-03-20T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/picknickday/</loc>
     <priority>0</priority>
   </url>
   
@@ -208,6 +275,12 @@
   <url>
     <loc>/categories/tehran/</loc>
     <lastmod>2018-03-19T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/undergroundcity/</loc>
+    <lastmod>2018-03-31T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
