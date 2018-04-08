@@ -28,13 +28,13 @@
   </url>
   
   <url>
-    <loc>/post/blogpost_kashan_day1/</loc>
-    <lastmod>2018-03-31T19:53:42+05:30</lastmod>
+    <loc>/post/blogpost_kashan_day2/</loc>
+    <lastmod>2018-04-01T19:53:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/blogpost_kashan_day2/</loc>
-    <lastmod>2018-04-01T19:53:42+05:30</lastmod>
+    <loc>/post/blogpost_kashan_day1/</loc>
+    <lastmod>2018-03-31T19:53:42+05:30</lastmod>
   </url>
   
   <url>
@@ -158,26 +158,26 @@
   </url>
   
   <url>
-    <loc>/tags/isfahan/</loc>
-    <lastmod>2018-04-04T19:53:42+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/isfahan/</loc>
     <lastmod>2018-04-04T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/kashan/</loc>
-    <lastmod>2018-03-31T19:53:42+05:30</lastmod>
+    <loc>/tags/isfahan/</loc>
+    <lastmod>2018-04-04T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/kashan/</loc>
-    <lastmod>2018-03-31T19:53:42+05:30</lastmod>
+    <lastmod>2018-04-01T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/kashan/</loc>
+    <lastmod>2018-04-01T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -218,13 +218,13 @@
   </url>
   
   <url>
-    <loc>/tags/nowruz/</loc>
+    <loc>/categories/nowruz/</loc>
     <lastmod>2018-03-20T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/nowruz/</loc>
+    <loc>/tags/nowruz/</loc>
     <lastmod>2018-03-20T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -278,14 +278,14 @@
   </url>
   
   <url>
-    <loc>/tags/tehran/</loc>
-    <lastmod>2018-03-20T19:53:42+05:30</lastmod>
+    <loc>/categories/tehran/</loc>
+    <lastmod>2018-03-19T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/tehran/</loc>
-    <lastmod>2018-03-19T19:53:42+05:30</lastmod>
+    <loc>/tags/tehran/</loc>
+    <lastmod>2018-03-20T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   

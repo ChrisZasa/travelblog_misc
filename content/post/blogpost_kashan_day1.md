@@ -3,7 +3,7 @@ image = "img/portfolio/rice_kashan.jpg"
 showonlyimage = true
 draft = false
 date = "2018-03-31T19:53:42+05:30"
-title = "Kashan -  Stadt am Rande der Wüste"
+title = "Kashan -  eine Stadt am Rande der Wüste"
 categories = [ "Kashan" ]
 tags = [ "kashan", "bazar", "undergroundcity"]
 weight = 13
@@ -69,15 +69,15 @@ Man konnte direkt alle möglichen Reisarten vergleichen oder Gewürze erstehen, 
 
 *One could buy all kind of rice or buy the freshly, in the old-way grinded spices. There were several shops selling cupper ware to an annoyingly much lower price than the one we went in Tehran. The size of the stores were similar though. Small, deep and filled till the roof with goods of any kind. I got a small, beautiful but simple, mortar for saffron.*
 
-Unser Hotel "Manochehrie Garten" war wahrscheinlich das Schönste auf unserer gesamten Reise. Am Ende von einem weit verzweigen System aus kleinen Gassen (gut, dass wir in einem Peugot und nicht einem SUV unterwegs waren) erreichten wir ein kleines Paradies. Kashan is bekannt für seine außerordentliche Architekture, insbesondere alter Herrenhäuser. Unser Hotel war eines dieser riesigen Herrenhäuser, die ganze Generationen einer Familie beherbegte. Nach drei Jahren Renovierungszeit entstand hier erneut ein kleines Paradies für Groß und Klein. Ein Wasserauf bildete auch hier das Herz des Innenhofes, eingerahmt von Sträuchern und Blumen, die Schatten für die Terassen und Sitzecken spendeten. Unser Zimmer lag oberhalb einer sehr steilen Treppe und war neben der simplen Einrichtung eine perfekte Reproduktion der alten Tage. Leider auch mit sehr niedrigen Türen, die mir so einige Beulen bescherten. 
+Unser Hotel "Manochehrie Garten" war wahrscheinlich das Schönste auf unserer gesamten Reise. Am Ende von einem weit verzweigen System aus kleinen Gassen (gut, dass wir in einem Peugeot und nicht einem SUV unterwegs waren) erreichten wir ein kleines Paradies. Kashan is bekannt für seine außerordentliche Architekture, insbesondere alter Herrenhäuser. Unser Hotel war eines dieser riesigen Herrenhäuser, die ganze Generationen einer Familie beherbegte. Nach drei Jahren Renovierungszeit entstand hier erneut ein kleines Paradies für Groß und Klein. Ein Wasserauf bildete auch hier das Herz des Innenhofes, eingerahmt von Sträuchern und Blumen, die Schatten für die Terassen und Sitzecken spendeten. Unser Zimmer lag oberhalb einer sehr steilen Treppe und war neben der simplen Einrichtung eine perfekte Reproduktion der alten Tage. Leider auch mit sehr niedrigen Türen, die mir so einige Beulen bescherten. 
 
 <p align="center">
   <img src="/img/portfolio/Kashan_hotel.png">
 </p>
 
-*Our hotel "Manocheherie Garden" was maybe the most beautiful one I've been so far. At the end of very, very narrow alleys (good that we did not have a SUV, even a small peugot had problems) we arrived in a little paradise. Kashan is known for it's great architecture and beautiful manor houses. Our hotel was one that has been renovated for three years and was formely built 150 years ago. A water stream built the center piece of the backyard surrounded by little bushes and flowers providing some shade. The rooms were simple but one could see the little details making up the very original charme. We had a little room with a balcony on top of very steep stairs and very narrow doors, as my head remembers a way to good.*
+*Our hotel "Manocheherie Garden" was maybe the most beautiful one I've been so far. At the end of very, very narrow alleys (good that we did not have a SUV, even a small peugeot had problems) we arrived in a little paradise. Kashan is known for it's great architecture and beautiful manor houses. Our hotel was one that has been renovated for three years and was formely built 150 years ago. A water stream built the center piece of the backyard surrounded by little bushes and flowers providing some shade. The rooms were simple but one could see the little details making up the very original charme. We had a little room with a balcony on top of very steep stairs and very narrow doors, as my head remembers a way to good.*
 
-## Wasserfall und viel Lärm - *A water fall and a lot of noise*
+## Ein Wasserfall und viel Lärm - *A water fall and a lot of noise*
 
 <p align="center">
   <img src="/img/portfolio/view_crazyvillage.jpg">
